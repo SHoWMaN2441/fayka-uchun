@@ -160,6 +160,3 @@ if __name__ == "__main__":
 	Decimal.grid(row=6, column=0) 
 	# start the GUI 
 	gui.mainloop() 
-
-
-print("Fayka dalban")
