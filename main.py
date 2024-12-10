@@ -1,5 +1,5 @@
 print("assalomu aleykum")
-
+print("Fayzulla")
 
 # Python program to create a simple GUI 
 # calculator using Tkinter 
