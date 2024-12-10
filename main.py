@@ -1,5 +1,5 @@
 print("assalomu aleykum")
-
+print("Fayzulla")
 
 # Python program to create a simple GUI 
 # calculator using Tkinter 
@@ -166,3 +166,7 @@ if __name__ == "__main__":
 
 
 print("feruz")
+
+a = 5 
+b = 3 
+print(a*b)
