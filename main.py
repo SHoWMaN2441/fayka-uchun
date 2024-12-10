@@ -1,3 +1,6 @@
+print("assalomu aleykum")
+
+
 # Python program to create a simple GUI 
 # calculator using Tkinter 
 
